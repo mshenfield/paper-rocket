@@ -1,0 +1,27 @@
+{
+  "name": "paper-rocket",
+  "version": "0.1.0",
+  "authors": [
+    "Max Shenfield <shenfieldmax@gmail.com>"
+  ],
+  "description": "Destroy paper enemies with your fiery weapons, but be careful! You may destroy the whole world along with them.",
+  "main": "index.html",
+  "keywords": [
+    "game",
+    "phaser",
+    "paper",
+    "rocket"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mshenfield/paper-rocket.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.4.3"
+  }
+}
